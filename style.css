@@ -1,0 +1,292 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    background: url(https://wallpapercave.com/wp/wp12568440.jpg) no-repeat center/cover;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+
+}
+
+.container {
+    background-color: rgba(255, 255, 255, 0.514);
+    backdrop-filter: blur(10px);
+    padding:30px 10px;
+    width: 300px;
+    border-radius: 10px;
+    text-align: center;
+    box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.2);
+    height: 450px;
+    width: 450px;
+    padding-left: 10px;
+}
+
+h2 {
+    color: #333;
+
+}
+
+.translation-box {
+    margin-bottom: 15px;
+
+}
+
+textarea {
+        background: rgb(230, 230, 230);
+    outline: none;
+    width: 95%;
+    height: 80px;
+    padding: 10px;
+border: none;
+    border-bottom: 1px solid rgb(36, 36, 36);
+    border-top: 2px solid rgb(251, 251, 251);
+        border-radius: 15px;
+    resize: none;
+}
+
+.controls {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    gap: 10px;
+    padding-right: -4px;
+    width: 450px;
+    margin-top: 5px;
+
+}
+
+select {
+    background: rgb(230, 230, 230);
+    flex: 1;
+    padding: 10px;
+    border-radius: 99px;
+    width: 180px;
+    height: 50px;
+    border: none;
+    outline: none;
+    border-bottom: 1px solid rgb(36, 36, 36);
+    border-top: 2px solid rgb(251, 251, 251);
+
+
+}
+
+.speak {
+    background: rgb(230, 230, 230);
+    border: none;
+    border-bottom: 1px solid rgb(36, 36, 36);
+    border-top: 2px solid rgb(255, 255, 255);
+    border-radius: 99px;
+    height: 50px;
+    width: 50px;
+    font-size: 20px;
+    cursor: pointer;
+}
+
+#translatebtn {
+        background: rgb(230, 230, 230);
+    color: black;
+    border: none;
+    padding: 10px 15px;
+    border-radius: 15px;
+    cursor: pointer;
+    font-size: 16px;
+    margin-top: 10px;
+ border-bottom: 1px solid rgb(36, 36, 36);
+    border-top: 2px solid rgb(255, 255, 255);
+    border-radius: 99px;
+ 
+}
+button:active{
+    position: relative;
+    top: 1px;
+height: 48px;
+border-bottom: none;
+}
+
+select:active{
+    position: relative;
+    top: 1px;
+border-bottom: none;
+height: 48px;
+padding-bottom: 8px;
+}
+.mode{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: absolute;
+top: 20px;
+right: 20px;
+
+}
+#dark{
+    background: rgb(230, 230, 230);
+    border: none;
+    height: 40px;
+    width: 80px;
+    border-radius: 15px;
+    cursor: pointer;
+    display:flex ;
+    justify-content: center;
+    align-items: center;
+    gap: 23px;
+    font-size: 16px;
+    margin-top: 10px;
+padding-bottom: 3px;
+ border-bottom: 1px solid rgb(36, 36, 36);
+    border-top: 2px solid rgb(255, 255, 255);
+    border-radius: 99px;
+}
+i{
+    transform: scale(1.3)
+}
+.bac{
+    background-color: rgba(158, 55, 255, 0.575);
+    width: 35px;
+    height: 35px;
+    border-radius: 99px;
+    position: absolute;
+    right:42px;
+    animation-fill-mode: forwards;
+    animation-duration: 0.4s;
+}
+@keyframes bb{
+    0%{
+    position: absolute;
+    right:3px;
+    }
+    100%{
+    position: absolute;
+    right:42px;
+    }
+}
+
+@keyframes xx{
+    0%{
+    position: absolute;
+    right:42px;
+    }
+    100%{
+    position: absolute;
+    right:3px;
+    }
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
